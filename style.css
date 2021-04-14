@@ -110,6 +110,7 @@ img {
 .cta-btn {
   border: 1px solid transparent;
   border-radius: 2em;
+  cursor: pointer;
   margin-top: 1.75em;
   padding: 1em 2.5em;
 }
